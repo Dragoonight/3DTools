@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools_3D_Allcamera", "Tools_3D_Allcamera\Tools_3D_Allcamera\Tools_3D_Allcamera.csproj", "{E4BF6AB7-C846-48D9-B192-41BD2DFF7AA8}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Tools_3D_AllcameraContent", "Tools_3D_Allcamera\Tools_3D_AllcameraContent\Tools_3D_AllcameraContent.contentproj", "{E7B236E4-2B38-4606-9ACC-B103F1E5ECB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4BF6AB7-C846-48D9-B192-41BD2DFF7AA8}.Debug|x86.ActiveCfg = Debug|x86
+		{E4BF6AB7-C846-48D9-B192-41BD2DFF7AA8}.Debug|x86.Build.0 = Debug|x86
+		{E4BF6AB7-C846-48D9-B192-41BD2DFF7AA8}.Release|x86.ActiveCfg = Release|x86
+		{E4BF6AB7-C846-48D9-B192-41BD2DFF7AA8}.Release|x86.Build.0 = Release|x86
+		{E7B236E4-2B38-4606-9ACC-B103F1E5ECB2}.Debug|x86.ActiveCfg = Debug|x86
+		{E7B236E4-2B38-4606-9ACC-B103F1E5ECB2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
