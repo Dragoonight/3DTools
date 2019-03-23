@@ -17,8 +17,8 @@ namespace Tools_3D_Allcamera
     public abstract class Camera
     {
         //Matrix variables for the view and projections
-        Matrix view;
-        Matrix projection;
+        private Matrix view;
+        private Matrix projection;
        
         //Get sets the projection property
         public Matrix Projection

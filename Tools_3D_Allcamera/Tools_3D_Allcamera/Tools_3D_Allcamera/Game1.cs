@@ -37,7 +37,7 @@ namespace Tools_3D_Allcamera
         }
 
         //A list for the model sides and vertexes
-        List<CustomModel> models = new List<CustomModel>();
+        private List<CustomModel> models = new List<CustomModel>();
 
         //Variable
         FreeCamera freeCamera;
